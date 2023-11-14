@@ -24,8 +24,6 @@ const App = (): JSX.Element => {
     <div className="todoapp">
       <Todos todos={todos}/>
     </div>
-     
-
   )
 }
 export default App
