@@ -1,27 +1,28 @@
-# React + TypeScript + Vite
+# 📝 Aplicación To-Do
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a la aplicación To-Do!
 
-Currently, two official plugins are available:
+Una herramienta desarrollada con **TypeScript** y **React** para gestionar tus tareas diarias de manera efectiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![To-Do App](https://github.com/Dannagoni/todo-app-ts/assets/128631249/a584e940-c48f-405a-943f-56c8f94dd42c)
 
-## Expanding the ESLint configuration
+## 🌟 Características Principales
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- ✅ Agrega nuevas tareas a tu lista.
+- ✅ Marca las tareas como completadas.
+- ✅ Filtra las tareas para ver todas, las tareas activas o las tareas completadas.
+- ✅ Muestra el número de tareas pendientes en tiempo real.
 
-- Configure the top-level `parserOptions` property like this:
+## 💻 Uso
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+1. **Clona este Repositorio:**
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   
+2. Abre la aplicación en tu navegador.
+    ```bash
+    cd tu-repositorio
+    npm install
+    npm start```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+3. Explora la aplicación To-Do y gestiona tus tareas de manera eficiente.
