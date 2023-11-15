@@ -9,17 +9,17 @@ import { Header } from "./components/Header"
 const mockTodos = [
   {
     id: "1",
-    title: "todo 1",
-    completed: true,
+    title: "Configure server settings.",
+    completed: false,
   },
   {
     id: "2",
-    title: "todo 2",
+    title: "Test deployment process.",
     completed: false,
   },
   {
     id: "3",
-    title: "todo 3",
+    title: "Set up deployment environment.",
     completed: false,
   },
 ]
