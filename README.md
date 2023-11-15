@@ -2,7 +2,7 @@
 
 ¡Bienvenido a la aplicación To-Do!
 
-Una herramienta simple desarrollada con **TypeScript** y **React** para gestionar tus tareas diarias de manera efectiva.
+Una herramienta desarrollada con **TypeScript** y **React** para gestionar tus tareas diarias de manera efectiva.
 
 ![To-Do App](https://github.com/Dannagoni/todo-app-ts/assets/128631249/a584e940-c48f-405a-943f-56c8f94dd42c)
 
