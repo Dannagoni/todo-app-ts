@@ -1,6 +1,6 @@
 # 📝 Aplicación To-Do
 
-¡Bienvenido a la aplicación To-Do!
+¡Bienvenido a la aplicación To-Do!!
 
 Una herramienta desarrollada con **TypeScript** y **React** para gestionar tus tareas diarias de manera efectiva.
 
